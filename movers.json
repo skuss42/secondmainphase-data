@@ -1,3 +1,239 @@
 {
- "posts": []
+ "posts": [
+  {
+   "slug": "2026-10-14",
+   "title": "Price movers, week of October 14",
+   "html": "<p>The biggest riser this week was Vronos, Masked Inquisitor (Commander Masters), up 407 percent to $22.30. The steepest fall was Valkyrie Harbinger (Kaldheim), down 53 percent to $3.77. Reality Fracture, the newest set, moved up 5.3 percent as a whole. A price is a listing price, not an offer, and a week is a short window: treat a spike as a question, not an answer.</p>\n<p><strong>Biggest risers</strong></p>\n<ul><li><strong>Vronos, Masked Inquisitor</strong> (Commander Masters): $4.40 to $22.30, +407%</li><li><strong>Magister Sphinx</strong> (Double Masters 2022): $1.60 to $5.27, +230%</li><li><strong>Chandra, Legacy of Fire</strong> (Commander Masters): $5.70 to $16.12, +183%</li><li><strong>Jace, Arcane Strategist</strong> (Jumpstart 2022): $2.18 to $4.69, +116%</li><li><strong>Kellan, the Kid</strong> (Outlaws of Thunder Junction): $2.12 to $4.09, +93%</li><li><strong>Herald&#x27;s Horn</strong> (Foundations Commander): $2.47 to $4.60, +86%</li><li><strong>Phyrexian Arena</strong> (Foundations Commander): $1.36 to $2.38, +76%</li><li><strong>Vraska, Betrayal&#x27;s Sting</strong> (Lorwyn Eclipsed Commander): $2.04 to $3.50, +71%</li><li><strong>Avengers Assemble!</strong> (Marvel Super Heroes): $1.64 to $2.75, +68%</li><li><strong>Sandstone Needle</strong> (Mercadian Masques): $6.27 to $10.40, +66%</li></ul>\n<p><strong>Biggest fallers</strong></p>\n<ul><li><strong>Valkyrie Harbinger</strong> (Kaldheim): $7.97 to $3.77, -53%</li><li><strong>Turbulent Shore</strong> (Reality Fracture Commander): $3.87 to $2.51, -35%</li><li><strong>M.O.D.O.K., Evil Intellect</strong> (Marvel Super Heroes Commander): $3.77 to $2.46, -35%</li><li><strong>Boromir, Warden of the Tower</strong> (The Lord of the Rings: Tales of Middle-earth): $5.58 to $3.72, -33%</li><li><strong>Sythis, Harvest&#x27;s Hand</strong> (Modern Horizons 2): $3.57 to $2.40, -33%</li><li><strong>Captain America, Super-Soldier</strong> (Marvel Super Heroes): $3.25 to $2.19, -33%</li><li><strong>The Indomitable</strong> (The Lost Caverns of Ixalan Commander): $4.76 to $3.24, -32%</li><li><strong>The Echoverse Fulcrum</strong> (Reality Fracture): $4.40 to $3.00, -32%</li><li><strong>Voltaic Key</strong> (Magic 2011): $5.11 to $3.54, -31%</li><li><strong>Graveborn Muse</strong> (Foundations Commander): $3.98 to $2.76, -30%</li></ul>\n<p><strong>New set spotlight: Reality Fracture</strong></p>\n<ul><li>The Theorist, Jace Beleren: $81.27, +94% this week</li><li>Hexhaven Invigorator: $32.00, -10% this week</li><li>Emrakul, the Exigent Doom: $23.33, -7% this week</li></ul>\n<p>Every card in the set, priced daily: <a href=\"https://secondmainphasetrading.com/sets/fra/\">https://secondmainphasetrading.com/sets/fra/</a></p>\n<p>Cards that moved at least $1, priced at $2 or more, from 2026-10-07 to 2026-10-14. The full archive: <a href=\"https://secondmainphasetrading.com/movers/\">https://secondmainphasetrading.com/movers/</a></p>",
+   "as_of": "2026-10-14",
+   "since": "2026-10-07",
+   "up": [
+    {
+     "id": "fdd2504b-ff9b-464c-9595-7dffab3bc5b9",
+     "img": "https://cards.scryfall.io/small/front/f/d/fdd2504b-ff9b-464c-9595-7dffab3bc5b9.jpg?1783915483",
+     "pct": 406.8,
+     "set": "Commander Masters",
+     "usd": 22.3,
+     "was": 4.4,
+     "code": "cmm",
+     "name": "Vronos, Masked Inquisitor"
+    },
+    {
+     "id": "be662808-e452-407d-b142-bf6f30990b5a",
+     "img": "https://cards.scryfall.io/small/front/b/e/be662808-e452-407d-b142-bf6f30990b5a.jpg?1783921818",
+     "pct": 230.3,
+     "set": "Double Masters 2022",
+     "usd": 5.27,
+     "was": 1.6,
+     "code": "2x2",
+     "name": "Magister Sphinx"
+    },
+    {
+     "id": "6b764e0d-ded0-4036-83b1-de49c6ee8f7e",
+     "img": "https://cards.scryfall.io/small/front/6/b/6b764e0d-ded0-4036-83b1-de49c6ee8f7e.jpg?1783915480",
+     "pct": 182.6,
+     "set": "Commander Masters",
+     "usd": 16.12,
+     "was": 5.7,
+     "code": "cmm",
+     "name": "Chandra, Legacy of Fire"
+    },
+    {
+     "id": "5b870094-08bf-41fc-b9d6-e435e02dc4e0",
+     "img": "https://cards.scryfall.io/small/front/5/b/5b870094-08bf-41fc-b9d6-e435e02dc4e0.jpg?1783919055",
+     "pct": 115.5,
+     "set": "Jumpstart 2022",
+     "usd": 4.69,
+     "was": 2.18,
+     "code": "j22",
+     "name": "Jace, Arcane Strategist"
+    },
+    {
+     "id": "04dfbc4c-ab21-45db-bbd9-b9d245d60015",
+     "img": "https://cards.scryfall.io/small/front/0/4/04dfbc4c-ab21-45db-bbd9-b9d245d60015.jpg?1783911792",
+     "pct": 93.2,
+     "set": "Outlaws of Thunder Junction",
+     "usd": 4.09,
+     "was": 2.12,
+     "code": "otj",
+     "name": "Kellan, the Kid"
+    },
+    {
+     "id": "d5ba6786-c812-4744-bb2e-f180010b18b7",
+     "img": "https://cards.scryfall.io/small/front/d/5/d5ba6786-c812-4744-bb2e-f180010b18b7.jpg?1789753327",
+     "pct": 86.0,
+     "set": "Foundations Commander",
+     "usd": 4.6,
+     "was": 2.47,
+     "code": "fdc",
+     "name": "Herald's Horn"
+    },
+    {
+     "id": "e6db1ad2-ed85-4084-976e-da1933f4d008",
+     "img": "https://cards.scryfall.io/small/front/e/6/e6db1ad2-ed85-4084-976e-da1933f4d008.jpg?1789753055",
+     "pct": 75.7,
+     "set": "Foundations Commander",
+     "usd": 2.38,
+     "was": 1.36,
+     "code": "fdc",
+     "name": "Phyrexian Arena"
+    },
+    {
+     "id": "9f1fa1c5-ff87-4bbc-89aa-dbebc91eada0",
+     "img": "https://cards.scryfall.io/small/front/9/f/9f1fa1c5-ff87-4bbc-89aa-dbebc91eada0.jpg?1783904555",
+     "pct": 71.1,
+     "set": "Lorwyn Eclipsed Commander",
+     "usd": 3.5,
+     "was": 2.04,
+     "code": "ecc",
+     "name": "Vraska, Betrayal's Sting"
+    },
+    {
+     "id": "bf736399-af74-4f52-9159-67ea67d0cf83",
+     "img": "https://cards.scryfall.io/small/front/b/f/bf736399-af74-4f52-9159-67ea67d0cf83.jpg?1783902981",
+     "pct": 67.8,
+     "set": "Marvel Super Heroes",
+     "usd": 2.75,
+     "was": 1.64,
+     "code": "msh",
+     "name": "Avengers Assemble!"
+    },
+    {
+     "id": "82bc7c6b-2e3d-42d1-b2bb-b37b6f34d33b",
+     "img": "https://cards.scryfall.io/small/front/8/2/82bc7c6b-2e3d-42d1-b2bb-b37b6f34d33b.jpg?1783945904",
+     "pct": 66.0,
+     "set": "Mercadian Masques",
+     "usd": 10.4,
+     "was": 6.27,
+     "code": "mmq",
+     "name": "Sandstone Needle"
+    }
+   ],
+   "down": [
+    {
+     "id": "edab83a9-35b5-4312-b8ee-1c042c02aa31",
+     "img": "https://cards.scryfall.io/small/front/e/d/edab83a9-35b5-4312-b8ee-1c042c02aa31.jpg?1783928124",
+     "pct": -52.7,
+     "set": "Kaldheim",
+     "usd": 3.77,
+     "was": 7.97,
+     "code": "khm",
+     "name": "Valkyrie Harbinger"
+    },
+    {
+     "id": "68353281-ebcc-4dcb-853c-f4d128c992d2",
+     "img": "https://cards.scryfall.io/small/front/6/8/68353281-ebcc-4dcb-853c-f4d128c992d2.jpg?1790310632",
+     "pct": -35.2,
+     "set": "Reality Fracture Commander",
+     "usd": 2.51,
+     "was": 3.87,
+     "code": "frc",
+     "name": "Turbulent Shore"
+    },
+    {
+     "id": "de490be1-4b62-4dc8-ad00-55de74d501dd",
+     "img": "https://cards.scryfall.io/small/front/d/e/de490be1-4b62-4dc8-ad00-55de74d501dd.jpg?1783903108",
+     "pct": -34.8,
+     "set": "Marvel Super Heroes Commander",
+     "usd": 2.46,
+     "was": 3.77,
+     "code": "msc",
+     "name": "M.O.D.O.K., Evil Intellect"
+    },
+    {
+     "id": "f6bc3720-2892-4dda-8f30-079a1ac8e1e2",
+     "img": "https://cards.scryfall.io/small/front/f/6/f6bc3720-2892-4dda-8f30-079a1ac8e1e2.jpg?1783916338",
+     "pct": -33.3,
+     "set": "The Lord of the Rings: Tales of Middle-earth",
+     "usd": 3.72,
+     "was": 5.58,
+     "code": "ltr",
+     "name": "Boromir, Warden of the Tower"
+    },
+    {
+     "id": "0babfe00-9bad-48fc-b3b1-df8280242fd2",
+     "img": "https://cards.scryfall.io/small/front/0/b/0babfe00-9bad-48fc-b3b1-df8280242fd2.jpg?1783926809",
+     "pct": -32.7,
+     "set": "Modern Horizons 2",
+     "usd": 2.4,
+     "was": 3.57,
+     "code": "mh2",
+     "name": "Sythis, Harvest's Hand"
+    },
+    {
+     "id": "33631d6c-c584-42ff-afe5-2647b5fb321f",
+     "img": "https://cards.scryfall.io/small/front/3/3/33631d6c-c584-42ff-afe5-2647b5fb321f.jpg?1783902981",
+     "pct": -32.7,
+     "set": "Marvel Super Heroes",
+     "usd": 2.19,
+     "was": 3.25,
+     "code": "msh",
+     "name": "Captain America, Super-Soldier"
+    },
+    {
+     "id": "e6456329-b521-474b-bfb5-bfcd7e52b5f8",
+     "img": "https://cards.scryfall.io/small/front/e/6/e6456329-b521-474b-bfb5-bfcd7e52b5f8.jpg?1783913913",
+     "pct": -31.9,
+     "set": "The Lost Caverns of Ixalan Commander",
+     "usd": 3.24,
+     "was": 4.76,
+     "code": "lcc",
+     "name": "The Indomitable"
+    },
+    {
+     "id": "1b54a4c5-511f-439f-86d0-e84a30275462",
+     "img": "https://cards.scryfall.io/small/front/1/b/1b54a4c5-511f-439f-86d0-e84a30275462.jpg?1790136679",
+     "pct": -31.8,
+     "set": "Reality Fracture",
+     "usd": 3.0,
+     "was": 4.4,
+     "code": "fra",
+     "name": "The Echoverse Fulcrum"
+    },
+    {
+     "id": "6dd61957-f3a2-4976-8f15-88258f71406a",
+     "img": "https://cards.scryfall.io/small/front/6/d/6dd61957-f3a2-4976-8f15-88258f71406a.jpg?1783941788",
+     "pct": -30.8,
+     "set": "Magic 2011",
+     "usd": 3.54,
+     "was": 5.11,
+     "code": "m11",
+     "name": "Voltaic Key"
+    },
+    {
+     "id": "49b8e4af-5a44-4aec-a386-729443af4140",
+     "img": "https://cards.scryfall.io/small/front/4/9/49b8e4af-5a44-4aec-a386-729443af4140.jpg?1789753036",
+     "pct": -30.5,
+     "set": "Foundations Commander",
+     "usd": 2.76,
+     "was": 3.98,
+     "code": "fdc",
+     "name": "Graveborn Muse"
+    }
+   ],
+   "spotlight": {
+    "top": [
+     {
+      "pct": 94.2,
+      "usd": 81.27,
+      "name": "The Theorist, Jace Beleren"
+     },
+     {
+      "pct": -10.5,
+      "usd": 32.0,
+      "name": "Hexhaven Invigorator"
+     },
+     {
+      "pct": -6.6,
+      "usd": 23.33,
+      "name": "Emrakul, the Exigent Doom"
+     }
+    ],
+    "code": "fra",
+    "name": "Reality Fracture",
+    "released": "2026-10-02",
+    "change_pct": 5.3
+   },
+   "approved_at": "2026-10-14T16:58:50.565482+00:00"
+  }
+ ]
 }
