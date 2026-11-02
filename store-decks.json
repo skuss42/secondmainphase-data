@@ -1,0 +1,9 @@
+{
+ "decks": [],
+ "store": {
+  "checkout_open": false,
+  "deck_shipping_flat": null,
+  "tx_rate_pct": null,
+  "tx_tax_rate_id": null
+ }
+}
