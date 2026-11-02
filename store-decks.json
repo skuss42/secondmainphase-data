@@ -1,16 +1,5 @@
 {
- "decks": [
-  {
-   "id": 3,
-   "name": "Rhino Rally: Ghired Populate (Ghired, Conclave Exile)",
-   "slug": "rhino-rally-ghired-populate-ghired-conclave-exile-3",
-   "commander": "Ghired, Conclave Exile",
-   "commander_sid": "d0825bcd-8cf8-498a-a61e-406f136e1f3f",
-   "bracket": "2",
-   "price": "69.99",
-   "status": "available"
-  }
- ],
+ "decks": [],
  "store": {
   "checkout_open": true,
   "deck_shipping_flat": "9.99",
