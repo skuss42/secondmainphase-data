@@ -2,9 +2,9 @@
  "decks": [],
  "store": {
   "checkout_open": true,
-  "launched": false,
+  "launched": true,
   "deck_shipping_flat": "9.99",
   "tx_rate_pct": "8.25",
-  "tx_tax_rate_id": "txr_1UX8gME8zB84jyS3QaLFhc7p"
+  "tx_tax_rate_id": "txr_1UYRrgEFyKkla7DQhdavSLKa"
  }
 }
