@@ -3166,7 +3166,7 @@
    "commander_sid": "5006eae5-3b77-45ab-a907-f5094b2eaf1f",
    "bracket": "2",
    "price": "63.99",
-   "status": "available",
+   "status": "being_rebuilt",
    "sold": 0
   },
   {
@@ -3238,13 +3238,6 @@
       "why": ""
      },
      {
-      "name": "Accursed Marauder",
-      "qty": 1,
-      "sid": "5da14d86-0780-4821-a799-96f64b377df4",
-      "role": "other",
-      "why": "Two-mana edict that hits real creatures; every death counts for Mahadi."
-     },
-     {
       "name": "Arcane Signet",
       "qty": 1,
       "sid": "156a1ca1-e4b1-4e0c-a786-fd80fe189896",
@@ -3308,18 +3301,18 @@
       "why": ""
      },
      {
-      "name": "Bone Shards",
-      "qty": 1,
-      "sid": "1ee98955-4c47-4d45-9377-608dfa755337",
-      "role": "removal",
-      "why": "One-mana kill spell that turns our own fodder into removal."
-     },
-     {
       "name": "Butcher of Malakir",
       "qty": 1,
       "sid": "1c428841-6ac7-4ca6-a3ff-2541a1444893",
       "role": "other",
       "why": "Our sacrifices force opponents to sacrifice too, and Mahadi counts all of it."
+     },
+     {
+      "name": "Carrion Feeder",
+      "qty": 1,
+      "sid": "0a19da90-880e-4eca-8cf7-6d7baf090d53",
+      "role": "other",
+      "why": ""
      },
      {
       "name": "Cavalier of Night",
@@ -3378,11 +3371,25 @@
       "why": "Every Treasure we sacrifice adds an extra red mana and grows it, so Mahadi's Treasures count double."
      },
      {
+      "name": "Dauthi Voidwalker",
+      "qty": 1,
+      "sid": "3573b9a2-7911-475c-8ae7-25bd0dbb7159",
+      "role": "other",
+      "why": ""
+     },
+     {
       "name": "Deadly Dispute",
       "qty": 1,
       "sid": "ed01650e-4eb5-4884-9cc6-947b0e20dd3c",
       "role": "draw",
       "why": "Sacrifice a Treasure or creature, draw two and get a Treasure back."
+     },
+     {
+      "name": "Demand Answers",
+      "qty": 1,
+      "sid": "eca092fc-7c67-4a73-989e-5297bbaaea76",
+      "role": "other",
+      "why": ""
      },
      {
       "name": "Demon's Disciple",
@@ -3420,6 +3427,13 @@
       "why": "A growing Zombie Army that gives a steady stream of bodies."
      },
      {
+      "name": "Etali, Primal Storm",
+      "qty": 1,
+      "sid": "b6af9894-95b5-4c8e-902f-a9ba70f02e4a",
+      "role": "other",
+      "why": ""
+     },
+     {
       "name": "Eviscerator's Insight",
       "qty": 1,
       "sid": "b00573bd-5bbb-4531-a0bb-a40f62b92b88",
@@ -3434,13 +3448,6 @@
       "why": "Fetches whichever basic we are missing."
      },
      {
-      "name": "Fatal Grudge",
-      "qty": 1,
-      "sid": "ec7de8d6-edad-4845-9868-781351480258",
-      "role": "draw",
-      "why": "Sacrifice something we no longer need and make each opponent give up a matching permanent."
-     },
-     {
       "name": "Feed the Swarm",
       "qty": 1,
       "sid": "a776f96b-01bf-430a-b1ad-9f4651070610",
@@ -3448,18 +3455,18 @@
       "why": "Kills a creature or an enchantment, a rare answer in these colours."
      },
      {
+      "name": "Fell the Profane // Fell Mire",
+      "qty": 1,
+      "sid": "a3cb782d-c459-468d-9779-9b5669abc337",
+      "role": "land",
+      "why": ""
+     },
+     {
       "name": "Fellwar Stone",
       "qty": 1,
       "sid": "e99c4fec-eb21-4288-a12f-1c58c4946bae",
       "role": "ramp",
       "why": "Two-mana rock that nearly always makes a colour we need."
-     },
-     {
-      "name": "Fiery Confluence",
-      "qty": 1,
-      "sid": "b35459f8-2231-4b89-a222-45e94d1b01d9",
-      "role": "sweeper",
-      "why": "Clears small creatures, hits artifacts or burns opponents out."
      },
      {
       "name": "Fire Diamond",
@@ -3483,23 +3490,16 @@
       "why": "Dual land that enters untapped when we reveal a basic."
      },
      {
-      "name": "Foundry Inspector",
+      "name": "Gray Merchant of Asphodel",
       "qty": 1,
-      "sid": "16debeb1-fb2b-4172-b6da-726416d4fb38",
+      "sid": "00d001d0-fd29-4b7c-9d0e-9131b995f910",
       "role": "other",
       "why": ""
      },
      {
-      "name": "Ghoulish Procession",
+      "name": "Greed",
       "qty": 1,
-      "sid": "c178227f-3b66-45f7-9838-dff70f1f2003",
-      "role": "other",
-      "why": "Replaces a dying creature with a Zombie each turn."
-     },
-     {
-      "name": "Gray Merchant of Asphodel",
-      "qty": 1,
-      "sid": "00d001d0-fd29-4b7c-9d0e-9131b995f910",
+      "sid": "851f8d1f-163c-4c4f-beee-431b64ec8a99",
       "role": "other",
       "why": ""
      },
@@ -3509,13 +3509,6 @@
       "sid": "09eeb9f5-4149-47c6-bfd0-472237043672",
       "role": "land",
       "why": "A sacrifice outlet on a land, handy when an opponent tries to steal or exile a creature."
-     },
-     {
-      "name": "Impulsive Pilferer",
-      "qty": 1,
-      "sid": "55ba9bea-5549-45cf-896c-501a1c81fd5a",
-      "role": "other",
-      "why": "One-drop that leaves a Treasure when it dies and can come back with encore."
      },
      {
       "name": "Infernal Grasp",
@@ -3530,6 +3523,13 @@
       "sid": "5006eae5-3b77-45ab-a907-f5094b2eaf1f",
       "role": "other",
       "why": "Grows every time we sacrifice a creature or Treasure, then hits something when it dies."
+     },
+     {
+      "name": "Lightning Greaves",
+      "qty": 1,
+      "sid": "659ef698-96ea-4fa9-b63c-0da93a2d1e78",
+      "role": "other",
+      "why": ""
      },
      {
       "name": "Loyal Apprentice",
@@ -3595,18 +3595,18 @@
       "why": "Turns every nontoken death into a deathtouch Rat."
      },
      {
-      "name": "Oni-Cult Anvil",
-      "qty": 1,
-      "sid": "c275470f-83d2-4341-9757-a570ec19a181",
-      "role": "other",
-      "why": "Spending Treasures on our turn makes a Construct token to sacrifice next."
-     },
-     {
       "name": "Pitiless Plunderer",
       "qty": 1,
       "sid": "8ba8b02a-8a05-40cd-8b83-51fd0cc0a7a5",
       "role": "other",
       "why": "A second Treasure engine that pays instantly, stacking with Mahadi."
+     },
+     {
+      "name": "Rain of Riches",
+      "qty": 1,
+      "sid": "d633a188-f533-4d28-b3f0-a19f4d78cc40",
+      "role": "other",
+      "why": ""
      },
      {
       "name": "Rakdos Carnarium",
@@ -3658,6 +3658,13 @@
       "why": "Filters mana into both colours for double-pip turns."
      },
      {
+      "name": "Slum Reaper",
+      "qty": 1,
+      "sid": "475690db-4934-4c2e-b869-a6499d86a9c5",
+      "role": "other",
+      "why": ""
+     },
+     {
       "name": "Smoldering Marsh",
       "qty": 1,
       "sid": "8d5e9bf4-ef5f-46eb-a0fc-cd7fa1c2c826",
@@ -3679,13 +3686,6 @@
       "why": "Fetches a land, then draws a card when it dies, and we want it to die."
      },
      {
-      "name": "Storm-Kiln Artist",
-      "qty": 1,
-      "sid": "da7ae8e0-cb6b-4386-8a30-9527d1af9be5",
-      "role": "other",
-      "why": ""
-     },
-     {
       "name": "Supernatural Stamina",
       "qty": 1,
       "sid": "ce15ab0b-c70d-4ac0-a6ee-dbd31736ce1f",
@@ -3698,6 +3698,13 @@
       "sid": "b233b117-9369-45c1-80c5-cc857386b6be",
       "role": "land",
       "why": "Basic land (11 of 11)."
+     },
+     {
+      "name": "Syr Konrad, the Grim",
+      "qty": 1,
+      "sid": "443a4eac-f972-4027-aed4-552d4edc2ce1",
+      "role": "other",
+      "why": "Hits every opponent whenever another creature dies, a visible late threat."
      },
      {
       "name": "Tainted Peak",
@@ -3714,18 +3721,18 @@
       "why": "Dual land with a scry to smooth draws."
      },
      {
-      "name": "Terminate",
-      "qty": 1,
-      "sid": "a65eeee0-dc46-4ab9-a61f-c844c9705c0a",
-      "role": "removal",
-      "why": "Clean two-mana creature kill at instant speed."
-     },
-     {
       "name": "Terramorphic Expanse",
       "qty": 1,
       "sid": "61902bad-c322-406d-aa4d-039efd4aa84f",
       "role": "land",
       "why": "Second basic fetcher for colour fixing."
+     },
+     {
+      "name": "Toxic Deluge",
+      "qty": 1,
+      "sid": "1df2c2a6-94a9-4365-9bd5-dd5f2854c562",
+      "role": "other",
+      "why": ""
      },
      {
       "name": "Tragic Slip",
@@ -3749,20 +3756,6 @@
       "why": "Brings back Mahadi or any of our cheap creatures, or cycles away."
      },
      {
-      "name": "Vampiric Rites",
-      "qty": 1,
-      "sid": "6854dc06-4845-4201-958b-2fdad3f7b64a",
-      "role": "draw",
-      "why": "Repeatable sacrifice outlet that draws and gains life for Starscape Cleric."
-     },
-     {
-      "name": "Vengeful Bloodwitch",
-      "qty": 1,
-      "sid": "bd0c12dd-f138-45c0-9614-d83a1d8e8399",
-      "role": "other",
-      "why": "Cheap extra drain on our creature deaths."
-     },
-     {
       "name": "Village Rites",
       "qty": 1,
       "sid": "9c0f60a6-b5c8-4704-8b61-94e8fc463e5d",
@@ -3784,6 +3777,13 @@
       "why": "Puts a basic onto the battlefield and is an artifact to sacrifice afterwards."
      },
      {
+      "name": "Withering Torment",
+      "qty": 1,
+      "sid": "06d44ada-f98e-405f-89d3-ac1002bfb854",
+      "role": "other",
+      "why": ""
+     },
+     {
       "name": "Zulaport Cutthroat",
       "qty": 1,
       "sid": "c43609fb-3cee-44e0-98d0-3ecaba1d5767",
@@ -3800,7 +3800,7 @@
    "commander_sid": "fc4dad0e-4a4e-4898-a786-efcbceb4d70b",
    "bracket": "2",
    "price": "45.99",
-   "status": "being_rebuilt",
+   "status": "available",
    "sold": 0
   },
   {
