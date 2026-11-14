@@ -2905,13 +2905,6 @@
       "why": "Sacrifices itself to fetch a basic, triggering Juri."
      },
      {
-      "name": "Mahadi, Emporium Master",
-      "qty": 1,
-      "sid": "fc4dad0e-4a4e-4898-a786-efcbceb4d70b",
-      "role": "other",
-      "why": "Turns a turn full of deaths into a pile of Treasures to sacrifice."
-     },
-     {
       "name": "Midnight Reaper",
       "qty": 1,
       "sid": "5e122fe0-51c5-404d-a7b9-3d161a426c35",
@@ -3155,6 +3148,13 @@
       "sid": "ef1f727a-79d3-42a6-aa20-fa55499a4979",
       "role": "ramp",
       "why": "Fetches a land, and sacrificing it pumps Juri."
+     },
+     {
+      "name": "Zulaport Cutthroat",
+      "qty": 1,
+      "sid": "c43609fb-3cee-44e0-98d0-3ecaba1d5767",
+      "role": "other",
+      "why": ""
      }
     ],
     "card_count": 100
@@ -3166,7 +3166,7 @@
    "commander_sid": "5006eae5-3b77-45ab-a907-f5094b2eaf1f",
    "bracket": "2",
    "price": "63.99",
-   "status": "being_rebuilt",
+   "status": "available",
    "sold": 0
   },
   {
